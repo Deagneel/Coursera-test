@@ -20,9 +20,7 @@ h6 {
   letter-spacing: 0.1rem;
 }
 
-.bg-black {
-  background-color: #000 !important;
-}
+
 
 .rounded-pill {
   border-radius: 5rem;
@@ -51,7 +49,7 @@ h6 {
 header.masthead {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background-color: black;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -75,7 +73,7 @@ header.masthead .bg-circle {
   z-index: 0;
   position: absolute;
   border-radius: 100%;
-  background: linear-gradient(0deg, #ee0979 0%, #ff6a00 100%);
+  
 }
 
 header.masthead .bg-circle-1 {
